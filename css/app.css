@@ -22,6 +22,11 @@ html{
 
 }
 
+.score-panel .stars li{
+  list-style:none;
+  display: inline-block;
+}
+
 .deck{
   width: 660px;
   min-height: 680px;
