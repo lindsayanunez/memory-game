@@ -39,24 +39,22 @@ html{
 //flipped cards
 
 .deck .card .open{
-  transform: rotate(y);
-  background: #02b3e4;
-  cursor: default;
+      transform: rotateY(0);
+    background: #02b3e4;
+    cursor: default;
 }
 
 .deck .card .show{
   font-size: 33px;
 }
 
-//flipped & matched cards
+//flipped & matched
 
 .deck .card .match{
-  cursor: default;
-  background: #02ccba;
-  font-size: 33px;
+ cursor: default;
+    background: #02ccba;
+    font-size: 33px;
 }
-
-
 
 
 
