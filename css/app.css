@@ -48,6 +48,17 @@ html{
   font-size: 33px;
 }
 
-
 //flipped & matched cards
+
+.deck .card .match{
+  cursor: default;
+  background: #02ccba;
+  font-size: 33px;
+}
+
+
+
+
+
+
 
