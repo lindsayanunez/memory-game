@@ -16,7 +16,7 @@ html, body{
 }
 
 body{
-  background: #ffffff url();
+  background: #ffffff url('../img/geometry2.png');
   font-family: 'Coda', cursive;
 }
 
