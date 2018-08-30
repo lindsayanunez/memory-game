@@ -20,6 +20,13 @@ body{
   font-family: 'Coda', cursive;
 }
 
+.container{
+  display: flex;
+  justiify-content: center;
+  align-itmems: center;
+  flex-direction: column;
+}
+
 /*//score panel styles*/
 
 .score-panel{
