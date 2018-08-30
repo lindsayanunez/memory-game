@@ -8,6 +8,12 @@ html{
   box-sizing:inherit;
 }
 
+.score-panel{
+  text-align: left;
+  width: 345px;
+  margin-bottom: 10px;
+}
+
 .deck{
   width: 660px;
   min-height: 680px;
@@ -55,6 +61,8 @@ html{
     background: #02ccba;
     font-size: 33px;
 }
+
+
 
 
 
