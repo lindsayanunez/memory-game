@@ -12,7 +12,10 @@ html{
   width: 660px;
   min-height: 680px;
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
+  background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
+  padding: 32px;
+  border-radius: 10px;
 }
 
 .deck .card{
