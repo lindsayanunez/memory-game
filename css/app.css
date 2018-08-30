@@ -17,6 +17,9 @@ html{
   padding: 32px;
   border-radius: 10px;
   box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+  justify-content:space-between;
+  align-items: center;
+  margin: 0 0 3em;
 }
 
 .deck .card{
